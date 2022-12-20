@@ -1,0 +1,1 @@
+The purpose of this project is to practice using conditional statements in a for...of loop.
